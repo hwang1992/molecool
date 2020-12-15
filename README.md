@@ -1,4 +1,4 @@
-molecool
+molecool update
 ==============================
 [//]: # (Badges)
 [![GitHub Actions Build Status](https://github.com/REPLACE_WITH_OWNER_ACCOUNT/molecool/workflows/CI/badge.svg)](https://github.com/REPLACE_WITH_OWNER_ACCOUNT/molecool/actions?query=workflow%3ACI)
